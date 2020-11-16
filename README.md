@@ -10,7 +10,8 @@ The dataset is very large. Hence, it takes a while to run. There are few measure
 
 # Google Colab
 
-Repository: https://github.com/adithyarganesh/CSC555_Youtube_SNA
+Adding dataset shortcut to drive  https://drive.google.com/drive/folders/1I7gQ4S7FVWc-TJ_IInoyWFh8o38ZzvVr?usp=sharing
+Navigate to the above link and add the folder as a shortcut to drive so that the dataset can be accessed easily while running the code blocks
 
 Please find in the repository a file named "Final_Project.ipynb". This was added from colab and can be accessed for viewing the python script.
 
